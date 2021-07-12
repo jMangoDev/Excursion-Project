@@ -35,3 +35,11 @@ body {
     color: gray;
     text-align: right;
 }
+
+/* img */ 
+
+.img {
+    height: auto;
+    width: auto;
+}
+
